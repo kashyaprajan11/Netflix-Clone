@@ -1,5 +1,4 @@
-const API_KEY = // Your API Key goes here
-
+const API_KEY = f66d187fcae64fb438e1e89e0b7c5a4a;
 
 export default {
   fetchTopRated: `/movie/top_rated?api_key=${API_KEY}&language=en-US&page=1`,
